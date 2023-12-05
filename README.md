@@ -1,9 +1,7 @@
 - 👋 Hi,
 - 👀 I’m interested in ...
 
-![image](https://github.com/mohamehk-77/mohamehk-77/assets/138592092/1be5479c-b534-451e-a8b9-4286b2640012)  ![image](https://github.com/mohamehk-77/mohamehk-77/assets/138592092/b211cfb6-a977-4807-80ab-2d87b2ce367f)
-
-
+angular angularjs arduino bash bootstrap c css3 electron express firebase git graphql html5 javascript linux matlab mongodb mysql nestjs nextjs nodejs photoshop postman puppeteer python react reactnative redux sass typescript vagrant vuejs
 
 ## python 
 ## liunx
